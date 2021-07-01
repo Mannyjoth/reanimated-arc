@@ -46,7 +46,7 @@ const Stopwatch = () => {
           initialAnimation={false}
         />
         <ReanimatedArc
-          color="#8EA604"
+          color="#6495ED"
           diameter={200}
           width={16}
           arcSweepAngle={currentTime * 6}
